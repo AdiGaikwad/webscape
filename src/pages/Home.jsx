@@ -9,7 +9,7 @@ const Home = () => {
           </h1>
           <p className="text-lg mb-6">
             {/* TODO: Replace with an inspiring club tagline or mission statement */}
-            [Club tagline or mission statement goes here...]
+            We make the world of tech a little less daunting! 🌟
           </p>
           <button
             // TODO: Add functionality (e.g., linking to a registration page or modal)
